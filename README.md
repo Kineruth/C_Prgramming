@@ -1,5 +1,7 @@
 # C_Prgramming
-Tasks in c programming course.  
+
+Tasks in c programming course. 
+
 Task 1 :
 ---
 creating a game user vs. computer.  
