@@ -12,5 +12,13 @@ Give it a try and see if you can break all odds, and let me know.
 
 Task 2 :
 ---
-The Boggle game.
+*The Boggle game*.
 It has a bug - it counts duplicated words - because 5 words could be found using different paths.
+
+Task 3 :
+---
+*The 4-in-a-row game*.
+There are two players - X & O.
+Every player in his turn decides where to put his mark.
+The winner is the one who has 4 marks sequentially whether it's as a row/column/diagonal.
+If the board is full and no one won - it a tie!
